@@ -149,5 +149,5 @@ Due to GitHub file size limitations, the dataset and trained models are hosted o
 🔗 Download here:
 https://drive.google.com/drive/folders/1Lj6aDr97aw9Ecwp29MvsVUzLiMjbUmbe?usp=drive_link
 
-👨‍💻 Author
+👨‍💻 Author :
 Mohanraj D
