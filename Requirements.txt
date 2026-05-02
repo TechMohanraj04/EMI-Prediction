@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+scikit-learn
+xgboost
+imblearn
+mlflow
+dagshub
+matplotlib
+seaborn
+altair==4.2.2
